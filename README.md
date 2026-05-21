@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
-- 😄 Pronouns: She/her <br>
 <h3 align="center">An Aspiring Software engineer based in Manchester.</h3>
 
 - 🔭 I’m currently working on [My-First-C](https://github.com/ruth224/First-C-)
