@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**ruth224/ruth224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+## Hi there 
 
 # 💫 About Me:
 Hi, I am an aspiring software engineering based in Manchester. <br>Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .<br><br>Languages include:<br>C#<br>Python<br>HTML<br>CSS<br>Javascript <br><br>
