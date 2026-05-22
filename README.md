@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ZyfUmDYVEcXpfhquTwLEz9Db7CnC8w9v/view?usp=drive_link)
 
-- <br>Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .
+- Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .<br>
 - ⚡ Fun fact **I Love to bake**
 
 <h3 align="left">Connect with me:</h3>
