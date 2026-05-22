@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ruthtouloum@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZyfUmDYVEcXpfhquTwLEz9Db7CnC8w9v/view?usp=drive_link](https://drive.google.com/file/d/1ZyfUmDYVEcXpfhquTwLEz9Db7CnC8w9v/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ZyfUmDYVEcXpfhquTwLEz9Db7CnC8w9v/view?usp=drive_link)
 
 - <br>Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .
 - ⚡ Fun fact **I Love to bake**
