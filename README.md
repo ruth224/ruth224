@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center"> Future builder based in Manchester.</h3>
 
-- 🔭 I’m currently working on [My-First-C](https://github.com/ruth224/First-C-)
+- 🔭 I’m currently working on [Qr-reader](https://github.com/ruth224/Qr-reader)
 
 - 🌱 I’m currently learning **Python & MySQL** **Aiming to improve problem solving through hackerank & coderbyte**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ruthtouloum@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/user-attachments/files/29639817/Ruth.Touloum.Resume.2026.pdf)
+- 📄 Know about my experiences [My Resume](file:///C:/Users/rutht/Downloads/Ruth%20Touloum%20Resume%202026%20-%20Google%20Slides.pdf)
 
 - Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .<br>
 - ⚡ Fun fact **I Love to bake**
