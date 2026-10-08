@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ruthtouloum@gmail.com**
 
-- 📄 Know about my experiences [My Resume](file:///C:/Users/rutht/Downloads/Ruth%20Touloum%20Resume%202026%20-%20Google%20Slides.pdf)
+- 📄 Know about my experiences [My Resume](https://ruth-touloum-resume-2026-google-slides.tiiny.site)
 
 - Currently working at an intermediate level, focusing on mini projects to elevate my learning.<br><br>Looking to focus within API's and web application development - always open for new opportunities to better my skills .<br>
 - ⚡ Fun fact **I Love to bake**
